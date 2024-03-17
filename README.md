@@ -9,8 +9,9 @@ I have realised such buttons as digits [0;9], symbols of mathematical operations
 <p align="center">
   <img width="300" height="400" src="https://github.com/pluffohman/CalculatorSFML/assets/144831566/35e4a30c-046b-4f0c-8bdb-00db86cd5eff">
 </p>
+
 So, we can see our buttons and our output field. Here are also buttons FF, which are not connected to anything, and can be edited.
-I used this font:[BankGothicMdBT](https://fonts-online.ru/fonts/bankgothic-md-bt)
+I used this font: [BankGothicMdBT](https://fonts-online.ru/fonts/bankgothic-md-bt)
 
 ## Mechanics and algorithms
 
