@@ -2,7 +2,7 @@
 
 In this project I used SFML/Graphics library to male a window application Calculator.
 
-I have realised such buttons as digits [0;9], symbols of mathematical operations {+,-,%,*,/} and additional buttons.
+I have realised such buttons as digits [0;9], symbols of mathematical operations {+, -, %, *, /, ^} and additional buttons.
 
 ## Let's run this project:
 
