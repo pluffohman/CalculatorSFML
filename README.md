@@ -1,6 +1,6 @@
 # SFML Calculator
 
-In this project I used SFML/Graphics library to male a window application Calculator.
+In this project I used SFML/Graphics library to make a window application Calculator.
 
 I have realised such buttons as digits [0;9], symbols of mathematical operations {+, -, %, *, /, ^} and additional buttons.
 
@@ -31,7 +31,7 @@ public:
 	}
 };
 ```
-So, i do not need to rewrite my functions again. It's practically useful thing.
+So, I do not need to rewrite my functions again. It's practical enough.
 
 ## Conclusion
 
