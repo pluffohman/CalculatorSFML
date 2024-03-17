@@ -35,4 +35,4 @@ So, I do not need to rewrite my functions again. It's practical enough.
 
 ## Conclusion
 
-In my opinion, this project is quite an ineresting and it really helped me to learn more about SFML and object oriented programming.
+In my opinion, this project is quite ineresting and it really helped me to learn more about SFML and object oriented programming.
